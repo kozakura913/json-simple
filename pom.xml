@@ -3,7 +3,7 @@
 	<groupId>xyz.kzkr</groupId>
 	<artifactId>json-simple</artifactId>
 	<name>JSON.simple</name>
-	<version>1.1.1</version>
+	<version>2.0.0</version>
 	<description>A simple Java toolkit for JSON</description>
 	<url>https://github.com/kozakura913/json-simple</url>
 	<licenses>
